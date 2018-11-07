@@ -1,0 +1,11 @@
+# basic options
+title: Dimpled Designs
+author: dimpleddesigns
+email: dimpleddsigns@gmail.com
+description: A wonderful site
+twitter_username: dimpleddesigns
+github_username:  dimpleddesigns
+
+# Build settings
+markdown: kramdown
+theme: minima
